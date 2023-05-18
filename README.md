@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Áurea 👋
 
-- 🔭 Hoje trabalho com front-end e estou cursando o 10º período de engenharia da computação
-- 🌱 Estudando Typescript 
+- 🔭 Formada em Engenharia da Computação
+- 🌱 Hoje trabalho com front-end
 - 📫 Contate-me no email: aurea@gec.inatel.br
 
 <div align="center">
